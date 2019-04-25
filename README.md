@@ -1,4 +1,5 @@
 # Python 3
+###### Tecnologias utilizadas: 
 
 ## Cronograma
 
