@@ -14,8 +14,8 @@ Conceitos básicos e introdução à linguagem.
 
 | Conteúdo  |
 | ------------- | 
-| Introdução à linguagem  |                         - [x] Lista de Exercícios Teóricos 1
-| Instalação do Python  |                           - [x] Lista de Exercícios Práticos 1
+| Introdução à linguagem  |                         
+| Instalação do Python  |                           
 | Usar o Python sem instalação  |         
 | Função Print e variáveis  |
 | Imprimindo mensagem na tela  |
@@ -36,14 +36,23 @@ Conceitos básicos e introdução à linguagem.
 | Conteúdo  |
 | ------------- | 
 | Lógica e Condicionais  |
-| If, Elif e Else  |                                 - [ ] Lista de Exercícios Teóricos 2
-| Loops  |                                           - [ ] Lista de Exercícios Práticos 2             
-| While  |                                           - [ ] Jogo de Adivinhação com Python           
-| For  |                                             - [ ] Jogo  da Forca com C e C++
-| Validação de Dados  |                              - [ ] Jogo Batalha Naval com C e C++                
-| Funções  |                                         - [ ] Jogo da Velha com C e C ++ 
+| If, Elif e Else  |                                 
+| Loops  |                                                      
+| While  |                                                  
+| For  |                                             
+| Validação de Dados  |                                             
+| Funções  |                                         
 | Módulos  |
 | Criar e Conectar |
 | Módulos Built-in |
 | Módulos Externos |
 
+## Atividades
+- [x] Lista de Exercícios Teóricos 1
+- [x] Lista de Exercícios Práticos 1
+- [ ] Lista de Exercícios Teóricos 2
+- [ ] Lista de Exercícios Práticos 2  
+- [ ] Jogo de Adivinhação com Python    
+- [ ] Jogo  da Forca com C e C++
+- [ ] Jogo Batalha Naval com C e C++ 
+- [ ] Jogo da Velha com C e C ++ 
