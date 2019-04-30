@@ -1,6 +1,11 @@
 # Python 3
 ###### Tecnologias utilizadas: 
-
+![Python](python.png)
+![C Plus Plus](c++.png)
+###### Ferramentas utilizadas: 
+- Python 3.3.7 Shell
+- PyCharm
+- Dev-C++
 ## Cronograma
 
 ###### Aula 1
@@ -9,9 +14,9 @@ Conceitos básicos e introdução à linguagem.
 
 | Conteúdo  |
 | ------------- | 
-| Introdução à linguagem  |
-| Instalação do Python  |  
-| Usar o Python sem instalação  |
+| Introdução à linguagem  |                         
+| Instalação do Python  |                           
+| Usar o Python sem instalação  |         
 | Função Print e variáveis  |
 | Imprimindo mensagem na tela  |
 | Personalizando saída  |
@@ -26,5 +31,28 @@ Conceitos básicos e introdução à linguagem.
 | Interpretado vs Compilado |
 | Python é interpretado ou compilado? |
 
+###### Aula 2
 
+| Conteúdo  |
+| ------------- | 
+| Lógica e Condicionais  |
+| If, Elif e Else  |                                 
+| Loops  |                                                      
+| While  |                                                  
+| For  |                                             
+| Validação de Dados  |                                             
+| Funções  |                                         
+| Módulos  |
+| Criar e Conectar |
+| Módulos Built-in |
+| Módulos Externos |
 
+## Atividades
+- [x] Lista de Exercícios Teóricos 1
+- [x] Lista de Exercícios Práticos 1
+- [ ] Lista de Exercícios Teóricos 2
+- [ ] Lista de Exercícios Práticos 2  
+- [ ] Jogo de Adivinhação com Python    
+- [ ] Jogo  da Forca com C e C++
+- [ ] Jogo Batalha Naval com C e C++ 
+- [ ] Jogo da Velha com C e C ++ 
