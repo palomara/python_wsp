@@ -1,7 +1,7 @@
 # Python 3
 ###### Tecnologias utilizadas: 
-![Python](python.png)
-![C Plus Plus](c++.png)
+![Python](https://raw.githubusercontent.com/palomara/python_wsp/master/python.png)
+![C Plus Plus](https://raw.githubusercontent.com/palomara/python_wsp/master/c%2B%2B.png)
 ###### Ferramentas utilizadas: 
 - Python 3.3.7 Shell
 - PyCharm
