@@ -8,7 +8,7 @@
 - Dev-C++
 ## Cronograma
 
-###### Aula 1
+###### Aulas 1 e 2
 
 Conceitos básicos e introdução à linguagem. 
 
@@ -31,7 +31,7 @@ Conceitos básicos e introdução à linguagem.
 | Interpretado vs Compilado |
 | Python é interpretado ou compilado? |
 
-###### Aula 2
+###### Aulas 3 e 4
 
 | Conteúdo  |
 | ------------- | 
@@ -50,8 +50,10 @@ Conceitos básicos e introdução à linguagem.
 ## Atividades
 - [x] Lista de Exercícios Teóricos 1
 - [x] Lista de Exercícios Práticos 1
-- [ ] Lista de Exercícios Teóricos 2
-- [ ] Lista de Exercícios Práticos 2  
+- [x] Lista de Exercícios Teóricos 2
+- [x] Lista de Exercícios Práticos 2  
+- [x] Lista de Exercícios Teóricos 3
+- [x] Lista de Exercícios Práticos 3  
 - [ ] Jogo de Adivinhação com Python    
 - [ ] Jogo  da Forca com C e C++
 - [ ] Jogo Batalha Naval com C e C++ 
